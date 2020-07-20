@@ -15,5 +15,8 @@
 ### Screenshots
 
 #### Opening App
-
 ![Opening App](screenshots/OpeningApp.gif)
+#### Scrolling App
+![Scrolling App](screenshots/ScrollingApp.gif)
+#### Reading Comments
+![Reading Comments](screenshots/ReadingComments.gif)
