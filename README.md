@@ -1,4 +1,4 @@
-# The hacker news Mobile Application
+# The hacker News Mobile Application
 
 I like to read the [Hacker News](https://news.ycombinator.com/) daily, to find out what is going on in the tech scene. 
 
