@@ -2,7 +2,7 @@
 
 I like to read the [Hacker News](https://news.ycombinator.com/) daily, to find out what is going on in the tech scene. 
 
-After finding out that the hacker news API is public, I decided to use React Native to create a mobile app which I could use to read the top trending news from.
+After finding out that the hacker news API is public, I decided to use React Native to create a mobile app which I could use to read the top trending posts from.
 
 At the moment the app is capable of reading the top trending posts from the hacker news public api, view comments and share posts.
 
