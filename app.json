@@ -1,21 +1,21 @@
 {
   "expo": {
-    "name": "hacker-news",
-    "slug": "hacker-news",
+    "name": "the-hacker-news",
+    "slug": "the-hacker-news",
+    "description": "A mobile app to read the latest trending news from ycombinator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "privacy": "unlisted",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#7eaf95"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
