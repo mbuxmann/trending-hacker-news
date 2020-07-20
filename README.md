@@ -10,6 +10,8 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 <b>Website:</b> [Expo](https://expo.io/@bitvivaz/the-hacker-news)
 
+<img src="/screenshots/QRCode.png" height="200" />
+
 ### Tech Stack
 
 - React Native
