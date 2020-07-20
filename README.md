@@ -2,13 +2,18 @@
 
 <b>Website:</b> [Expo](https://expo.io/@bitvivaz/the-hacker-news)
 
-### Tech Stack 
+### Tech Stack
+
 - React Native
 - JavaScript
 - Expo
 
 ### Features
+
 - Trending, Webview and a comment section screen
 
 ### Screenshots
-![](screenshots/OpeningApp.gif)
+
+#### Opening App
+
+![Opening App](screenshots/OpeningApp.gif)
