@@ -25,9 +25,9 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 ### Screenshots
 
-#### Opening App
+#### Opening The App
 ![Opening App](screenshots/OpeningApp.gif)
-#### Scrolling App
+#### Scrolling
 ![Scrolling App](screenshots/ScrollingApp.gif)
 #### Reading Comments
 ![Reading Comments](screenshots/ReadingComments.gif)
