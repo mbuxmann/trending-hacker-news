@@ -10,7 +10,7 @@ You can view the app on Android or iOS by downloading the Expo app either throug
 
 <b>Website:</b> [Expo](https://expo.io/@bitvivaz/projects/trending-hacker-news) 
 
-<img src="/screenshots/qrCode.png" height="200" />
+<img src="/screenshots/qrCode.PNG" height="200" />
 
 ### Tech Stack
 
