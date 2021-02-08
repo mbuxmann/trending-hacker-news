@@ -8,7 +8,7 @@ At the moment the app is capable of reading the top trending posts from the hack
 
 You can view the app on Android or iOS by downloading the Expo app either through the [App Store](https://itunes.apple.com/app/apple-store/id982107779) or the [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www). With Android you can just open up the app and scan the QR Code, however with iOS you will need to visit the website link and click on the “open in Expo App” option.
 
-<b>Website:</b> [Expo](https://expo.io/@bitvivaz/the-hacker-news) 
+<b>Website:</b> [Expo](https://expo.io/@bitvivaz/projects/trending-hacker-news) 
 
 <img src="/screenshots/QRCode.png" height="200" />
 
